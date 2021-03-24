@@ -1,8 +1,8 @@
-package std.libraryCustomers;
+package std.libraryReservation;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LibraryCustomersApplicationTests {
+class LibraryReservationApplicationTests {
 
 }
